@@ -74,4 +74,4 @@ Luego abre `http://localhost:5173` en tu navegador.
 
 ## 👨‍💻 Autor
 
-- **Abdul Rubio** — Desarrollo Frontend II (PFY2202), Duoc UC.
+- **Abdul** — Desarrollo Frontend II (PFY2202), Duoc UC.
