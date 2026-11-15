@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "nombre": "Fantasía",
+        "descripcion": "Historias con elementos mágicos y sobrenaturales"
+    },
+    {
+        "id": "2",
+        "nombre": "Ficción",
+        "descripcion": "Obras de imaginación con tramas inventadas"
+    },
+    {
+        "id": "3",
+        "nombre": "Realismo mágico",
+        "descripcion": "Elementos fantásticos en un entorno realista"
+    },
+    {
+        "id": "4",
+        "nombre": "Ciencia ficción",
+        "descripcion": "Explora tecnologías avanzadas y mundos futuristas"
+    },
+    {
+        "id": "5",
+        "nombre": "Filosófico",
+        "descripcion": "Reflexiones sobre la existencia, el conocimiento y la moral"
+    }
+]

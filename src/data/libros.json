@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Harry Potter",
+        "autor": "J. K. Rowling",
+        "descripcion": "Un niño descubre que es un mago y asiste a una escuela de magia.",
+        "categoria": "Fantasía"
+    },
+    {
+        "id": 2,
+        "nombre": "El Principito",
+        "autor": "Antoine de Saint-Exupéry",
+        "descripcion": "Una historia poética sobre un niño que viaja por planetas.",
+        "categoria": "Ficción"
+    },
+    {
+        "id": 3,
+        "nombre": "Cien años de soledad",
+        "autor": "Gabriel García Márquez",
+        "descripcion": "La saga de la familia Buendía en el pueblo ficticio de Macondo.",
+        "categoria": "Realismo mágico"
+    },
+    {
+        "id": 4,
+        "nombre": "1984",
+        "autor": "George Orwell",
+        "descripcion": "Una distopía que explora la vigilancia y el totalitarismo.",
+        "categoria": "Ciencia ficción"
+    },
+    {
+        "id": 5,
+        "nombre": "El Alquimista",
+        "autor": "Paulo Coelho",
+        "descripcion": "Un pastor busca su leyenda personal y descubre el sentido de la vida.",
+        "categoria": "Filosófico"
+    }
+]
